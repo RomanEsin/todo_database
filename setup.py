@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="todo_database-RomanEsin",
+    name="todo_database",
     version="0.0.1",
     author="Roman Esin",
     author_email="esinromanswift@gmail.com",
